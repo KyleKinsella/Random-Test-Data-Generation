@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension point="org.eclipse.ui.commands">
+      <command
+            id="your.command.id"
+            name="Your Command Name">
+      </command>
+   </extension>
+
+   <extension point="org.eclipse.ui.handlers">
+      <handler
+            commandId="your.command.id"
+            class="plugin.handlers.SampleHandler">
+      </handler>
+   </extension>
+
+   <extension point="org.eclipse.ui.menus">
+      <menuContribution locationURI="popup:org.eclipse.ui.popup.any">
+         <command
+               commandId="your.command.id"
+               label="Generate Test"
+               style="push">
+         </command>
+      </menuContribution>
+   </extension>
+</plugin>
