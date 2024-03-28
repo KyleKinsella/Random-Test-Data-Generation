@@ -10,4 +10,4 @@ I would like to mention this installation process does take quite some time, but
 
 4. You are going to also need to install some extentions, here are the extentions you will need to install, org.eclipse.ui.commands, org.eclipse.ui.handlers and finally, org.eclipse.ui.menus
 
-5. Finally thelast step, 
+5. Finally the last step, 
