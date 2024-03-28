@@ -6,4 +6,4 @@
 
 3. In order for you to be able to run my software, you are going to need to install some dependencies, here are the dependencies you will need to install, org.eclipse.jdt.core, org.eclipse.ui, org.eclipse.core.runtime, org.eclipse.ui.workbench.texteditor, org.eclipse.jface.text, org.junit and the final dependencie you will be is, junit.jupiter-api. 
 
-You are going to also need to install some extentions, here are the extentions you will need to install, org.eclipse.ui.commands, org.eclipse.ui.handlers and finally, org.eclipse.ui.menus
+4. You are going to also need to install some extentions, here are the extentions you will need to install, org.eclipse.ui.commands, org.eclipse.ui.handlers and finally, org.eclipse.ui.menus
