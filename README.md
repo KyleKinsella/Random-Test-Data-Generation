@@ -27,4 +27,6 @@ I would like to mention this installation process does take quite some time, but
 
 7. Now you can start to write your own code, but again **I want to point out something very important, when you are making a new java file it must be called test again this is for the same reason as I have just mentioned above in step 6.
 
-8. When you are done writing your code, you will need to run my code on your machine, to do this you need to: Right click on the selectText.java file - Run as - Eclipse Application. This will start a new eclipse instance
+8. When you are done writing your code, you will need to run my code on your machine, to do this you need to: Right click on the selectText.java file - Run as - Eclipse Application. This will start a new eclipse instance, after a few minutes you will see a runtime eclispe window, this means that my code is running on your machine. In order for you to run your code, you need to open the file (test.java) for now, once you have your Java file opened in front of you in the runtime eclispe you will need to follow step 9 below to figure out how to use my software.
+
+9. Let's say you have a method to add two numbers together. Double click on the name of your method - right click - Generate Test - then just follow the on screen instructions. Once you have seen this message "Your Java file has been created", go back to your eclipse for committers and go to 
