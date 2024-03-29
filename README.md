@@ -11,3 +11,5 @@ I would like to mention this installation process does take quite some time, but
 4. You are going to also need to install some extentions, here are the extentions you will need to install, __org.eclipse.ui.commands__, __org.eclipse.ui.handlers__ and finally, __org.eclipse.ui.menus__
 
 5. Finally the last step, this step involves you to install my jar file, this very important because the jar file is needed to run my software on another machine.
+
+# How to operate my software
