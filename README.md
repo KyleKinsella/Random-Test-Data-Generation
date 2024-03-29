@@ -22,3 +22,5 @@ I would like to mention this installation process does take quite some time, but
 4. Now that you have my code you now need to make your own eclipse plugin project to be able to run my code. To do this you need to do the following, Go to the top of your eclispe click on File - New - Project - Find the plug-in development folder expand it - click on "Plug-in Project" - give your project a name - next - then finish.
 
 5. Paste the java file into your new project that you have just made.
+
+6. Then you need to back to the cloned folder of my repository is and go to the folder called "I made a right click", then open the plugin.xml file and copy the contents of that file, then go back to the project that you have just made and make sure that you have did the all of the above steps in "how to operate my software", but mainly step 3 and 4. Then go to the plugin.xml file and paste in the xml file that you copied from my repository. 
