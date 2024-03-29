@@ -23,6 +23,8 @@ I would like to mention this installation process does take quite some time, but
 
 5. Paste the java file into your new project that you have just made.
 
-6. Then you need to back to the cloned folder of my repository is and go to the folder called "I made a right click", then open the plugin.xml file and copy the contents of that file, then go back to the project that you have just made and make sure that you have did the all of the above steps in "how to install my software", but mainly steps 3 and 4. Then go to the plugin.xml file and paste in the xml file that you copied from my repository. ** I want to emphasize something very important when you are making a new plugin project you __MUST__ have your project called "rightClickMe" I am saying this because I have tried to code it to be able to work for any name but I am having some difficulties to construct this feature at the moment**.
+6. Then you need to back to the cloned folder of my repository is and go to the folder called "I made a right click", then open the plugin.xml file and copy the contents of that file, then go back to the project that you have just made and make sure that you have did the all of the above steps in "how to install my software", but mainly steps 3 and 4. Then go to the plugin.xml file and paste in the xml file that you copied from my repository. ** I want to emphasize something very important when you are making a new plugin project you __MUST__ have your project called "rightClickMe" I am saying this because I have tried to code it to be able to work for any name but I am having some difficulties to construct this feature at the moment**. Eventually I will get it to work for any project name. 
 
-7. 
+7. Now you can start to write your own code, but again **I want to point out something very important, when you are making a new java file it must be called test again this is for the same reason as I have just mentioned above in step 6.
+
+8. When you are done writing your code, you will need to run my code on your machine, to do this you need to: Right click on the selectText.java file - Run as - Eclipse Application. This will start a new eclipse instance
