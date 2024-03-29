@@ -13,3 +13,6 @@ I would like to mention this installation process does take quite some time, but
 5. Finally the last step, this step involves you to install my jar file, this very important because the jar file is needed to run my software on another machine.
 
 # How to operate my software
+1. The jar file that you have downlaoded from my repository you are going to need to do the following. You need to go to your File Explorer - C: - Users - "Your Name" - eclipse - the committers folder - eclipse, then you need to put the jar file into the "dropins" and "plugins" folder.
+
+2. If you have your Eclispe open and running where you have just put in the jar file, you will need to restart your eclipse.
