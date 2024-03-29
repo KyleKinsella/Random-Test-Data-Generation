@@ -8,7 +8,6 @@ I would like to mention this installation process does take quite some time, but
 
 3. In order for you to be able to run my software, you are going to need to install some dependencies, here are the dependencies you will need to install, __org.eclipse.jdt.core__, __org.eclipse.ui__, __org.eclipse.core.runtime__, __org.eclipse.ui.workbench.texteditor__, __org.eclipse.jface.text__, __org.junit_ and the final dependencie you will be is, __junit.jupiter-api__. 
 
-4. You are going to also need to install some extentions, here are the extentions you will need to install, org.eclipse.ui.commands, org.eclipse.ui.handlers and finally, org.eclipse.ui.menus
+4. You are going to also need to install some extentions, here are the extentions you will need to install, __org.eclipse.ui.commands__, __org.eclipse.ui.handlers__ and finally, __org.eclipse.ui.menus__
 
-5. Finally the last step, this step involbves you to install my jar file, this very important because the jar file is needed to run my software on another machine.
-6. test
+5. Finally the last step, this step involves you to install my jar file, this very important because the jar file is needed to run my software on another machine.
