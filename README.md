@@ -19,4 +19,6 @@ I would like to mention this installation process does take quite some time, but
 
 3. You will need to clone my repository, type in the following to clone my repository: git clone https://github.com/KyleKinsella/Random-Test-Data-Generation, then go to the cloned folder, then the folder called "I have fixed my code to be able to work with a few new types" and copy that file.
 
-4. Now that you have my code you now need to make your own eclipse plugin project to be able to run my code. To do this you need to do the following, Go to the top of your eclispe click on File - New - Project - Find the plug-in development folder expand it - click on "Plug-in Project" - give your project a name - next - then finish. 
+4. Now that you have my code you now need to make your own eclipse plugin project to be able to run my code. To do this you need to do the following, Go to the top of your eclispe click on File - New - Project - Find the plug-in development folder expand it - click on "Plug-in Project" - give your project a name - next - then finish.
+
+5. Paste the java file into your new project that you have just made.
