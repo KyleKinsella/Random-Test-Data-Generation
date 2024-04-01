@@ -1,3 +1,5 @@
+# My tool only works for the following types for the moment: Int, Float, Double, Boolean and Long, so if you are writing your own methods only use these types.
+
 # How to install my software
 
 I would like to mention this installation process does take quite some time, but once this is done it is done. The only thing you will be to install is my new software file and that is only when I update my software. 
