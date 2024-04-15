@@ -1,4 +1,4 @@
-# My tool works for the following types: Int, Float, Double, Boolean and Long, String, Char and Int[][] arrays, so if you are writing your own methods only use these types.
+# My tool works for the following types: Int, Float, Double, Boolean, Long, String, Char and Int[][] arrays, so if you are writing your own methods only use these types.
 
 # How to install my software
 
