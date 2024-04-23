@@ -1,3 +1,6 @@
+# My tool works for the following types: int, float, double, long, boolean, String, char and int[][]. So if you are writing your own methods only use these types. 
+I also must mention, if you have a method of type __int__ the parameters much be __int__ you can have as many parameters as you want but they must all be all type __int__.
+
 # How to install my software
 
 1. You will need to install the Eclipse IDE for Eclispe Committer's, don't install the normal Eclispe IDE as this project is a plugin development project, meaning that in order to run my code you have to have a plugin project.
