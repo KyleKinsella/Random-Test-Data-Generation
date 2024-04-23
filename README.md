@@ -8,7 +8,7 @@
 
 4. You are going to also need to install some extentions, here are the extentions you will need to install, __org.eclipse.ui.commands__, __org.eclipse.ui.handlers__ and finally, __org.eclipse.ui.menus__.
 
-5. 
+5. For more information see this video that I have made for more guidance: video_link
    
 # How to operate my software
 1. Go to your C drive and make a folder called "RandomTestDataGeneration".
