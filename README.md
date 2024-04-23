@@ -8,3 +8,9 @@
 
 4. You are going to also need to install some extentions, here are the extentions you will need to install, __org.eclipse.ui.commands__, __org.eclipse.ui.handlers__ and finally, __org.eclipse.ui.menus__
    
+# How to operate my software
+1. Go to your C drive and make a folder called "RandomTestDataGeneration".
+2. Open your eclipse for committers and do the following, File, New, Project, Plug-in Development, Plugin-in Project.
+3. Enter a name for your project, it must be called __rightClickMe__.
+4. Download my selectText.java and plugin.xml file this this working directory, C:\RandomTestDataGeneration\rightClickMe\src\rightClickMe, put the downloaded Java file into this directory, copy the contents of the plugin.xml file and paste it into your plugin.xml, it should be in your __META-INF // MANIFEST.MF__.
+5. 
