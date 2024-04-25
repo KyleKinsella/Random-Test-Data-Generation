@@ -20,7 +20,7 @@ I also must mention, if you have a method of type __int__ the parameters much be
    
 3. Enter a name for your project, it must be called __rightClickMe__.
    
-4. Download my selectText.java and plugin.xml file this this working directory, C:\RandomTestDataGeneration\rightClickMe\src\rightClickMe, put the downloaded Java file into this directory, copy the contents of the plugin.xml file and paste it into your plugin.xml, it should be in your __META-INF // MANIFEST.MF__.
+4. Download my selectText.java and plugin.xml from my GitHub (Final iteration completed folder)file this this working directory, C:\RandomTestDataGeneration\rightClickMe\src\rightClickMe, put the downloaded Java file into this directory, copy the contents of the plugin.xml file and paste it into your plugin.xml, it should be in your __META-INF // MANIFEST.MF__.
    
 5. Go to the bottom of the "selectText.java" file where is says "write your own methods below", that is where you must write your methods.
  
