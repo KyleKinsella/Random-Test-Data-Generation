@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   
+   <!-- Define the command that users can invoke -->
+   <extension point="org.eclipse.ui.commands">
+      <command
+            id="plugin.commands.seeInformation"
+            name="Display Method Info">
+      </command>
+   </extension>
+
+   <!-- Map the command to your handler class -->
+   <extension point="org.eclipse.ui.handlers">
+      <handler
+            commandId="plugin.commands.seeInformation"
+            class="rightClickMe.selectText">
+      </handler>
+   </extension>
+
+   <!-- Add the command to a context menu in Eclipse -->
+   <extension point="org.eclipse.ui.menus">
+      <menuContribution
+            locationURI="popup:org.eclipse.ui.popup.any">
+         <command
+               commandId="plugin.commands.seeInformation"
+               label="Generate Tests"
+               style="push">
+            
+         </command>
+      </menuContribution>
+   </extension>
+   
+   
+   
+</plugin>
